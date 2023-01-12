@@ -1,0 +1,16 @@
+* {
+    font-family: 'HelveticaNeueCyr', sans-serif;
+}
+
+.container {
+    width: 100%;
+    max-width: 950px;
+    margin: 0 auto;
+}
+
+@import 'libs/font';
+@import 'mixins/variables';
+
+@import 'blocks/promo';
+@import 'blocks/about_us';
+
